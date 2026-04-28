@@ -1,46 +1,75 @@
-### Hi there, I'm Wassim Azinne! 👋
+<div align="center">
 
-**Full Stack Developer (Laravel & React) based in Mohammedia, Morocco 🇲🇦**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Wassim%20Azinne&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%C2%B7%20Laravel%20%7C%20React%20%7C%20PHP&descAlignY=58&descSize=18" width="100%"/>
 
-Welcome to my GitHub! I specialize in building robust backend architectures and dynamic, responsive user interfaces. I love turning complex business requirements into clean, scalable applications, especially management systems.
+</div>
 
----
+<div align="center">
 
-### 🚀 What I do
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+robust+web+apps+with+Laravel;Crafting+reactive+UIs+with+React;Clean+code+%7C+Real+solutions+%7C+Solid+architecture)](https://git.io/typing-svg)
 
-- 💻 **Frontend Development:** Crafting beautiful and interactive UIs using **React**, **Tailwind CSS**, and modern JavaScript.
-- ⚙️ **Backend Development:** Building secure, scalable APIs and services with **Laravel** and **PHP**.
-- 🗄️ **Database Design:** Structuring efficient data models with **MySQL**.
-- 🛠️ **Problem Solving:** Creating comprehensive management solutions (CRMs, ERPs, Booking Systems) that streamline business operations.
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
+## 👋 About Me
 
-<p align="left">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-</p>
+I am a **Full Stack Web Developer** based in Mohammedia, Morocco — currently interning at **Tasmim Web** (Casablanca) and finishing my **Technicien Spécialisé Bac+2** in Full Stack Web Development at OFPPT ISTA.
+
+- 🎯 Open to **freelance projects** — web apps, custom dashboards, APIs
+- 🌱 Currently deepening: **Laravel advanced patterns**, **React ecosystem**
+- 📍 Mohammedia / Casablanca, Morocco
+- 📫 **zinne123wassim@gmail.com**
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zinnewassim&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Wassim's GitHub Stats" />
-</p>
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-### 📫 Get in Touch
+## 🚀 Projects
 
-- 📧 Email: [zinne123wassim@gmail.com](mailto:zinne123wassim@gmail.com)
-- 💼 Open for new freelance opportunities and collaborations!
+| Project | Description | Stack | Repo |
+|---|---|---|---|
+| **SGEP** | HR Management System with RBAC and auto-matricule generation | Laravel 12 · SQLite · Bootstrap 5 · Laratrust | [→ View](https://github.com/zinnewassim/sgep) |
+| **VIP Sport Center** | Full-stack sports center platform with member portal | Laravel · React 18 · Tailwind · MySQL | [→ View](https://github.com/zinnewassim/sportcenter) |
+| **Online Bookstore** | E-commerce bookstore with catalog, cart, and orders | Laravel · MySQL · Bootstrap | [→ View](https://github.com/zinnewassim/bookstore-website) |
+| **Employee Management** | Attendance tracking system with CSV export | Laravel · MySQL · Bootstrap | [→ View](https://github.com/zinnewassim/employee-management-system) |
 
-*“Great software is built on solid foundations.”*
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=zinnewassim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinnewassim&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-zinne123wassim%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zinne123wassim@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wassim_Azinne-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wassim-azinne)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" width="100%"/>
+</div>
